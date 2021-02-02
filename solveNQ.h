@@ -4,4 +4,4 @@
 #include <stdio.h> 
 using namespace std;
 
-bool solveNQ(){};
+bool solveNQ();
